@@ -117,8 +117,8 @@ sigs:
             - github: akalenyu
               name: Alex Kalenyuk
               company: Red Hat
-            - github: mhenriks
-              name: Michael Henriksen
+            - github: awels
+              name: Alexander Wels
               company: Red Hat
       meetings:
         - description: KubeVirt Storage SIG Meeting
