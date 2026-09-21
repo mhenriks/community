@@ -120,6 +120,10 @@ sigs:
             - github: awels
               name: Alexander Wels
               company: Red Hat
+        emeritus_leads:
+            - github: mhenriks
+              name: Michael Henriksen
+              company: Red Hat
       meetings:
         - description: KubeVirt Storage SIG Meeting
           day: Monday
